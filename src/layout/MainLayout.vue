@@ -2,7 +2,7 @@
   <q-layout view="lHr lpR lfr">
     <q-header class="bg-yellow text-black" height-hint="98">
       <q-toolbar>
-        <q-toolbar-title>UAS Praktikum Rizky®</q-toolbar-title>
+        <q-toolbar-title>UAS Praktikum Rizky 223510441®</q-toolbar-title>
         <q-tabs align="left">
           <q-route-tab to="/" label="weather" />
         </q-tabs>
